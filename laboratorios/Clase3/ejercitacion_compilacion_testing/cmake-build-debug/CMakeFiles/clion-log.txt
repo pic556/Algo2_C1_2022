@@ -1,0 +1,4 @@
+/home/pic/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/pic/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.7172.20/bin/ninja/linux/ninja -G Ninja /home/pic/Documentos/algo2/laboratorios/Clase3/ejercitacion_compilacion_testing
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/pic/Documentos/algo2/laboratorios/Clase3/ejercitacion_compilacion_testing/cmake-build-debug
