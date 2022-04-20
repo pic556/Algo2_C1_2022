@@ -31,3 +31,11 @@
 2	1612	1649012091826452276	CMakeFiles/ej11.dir/tests/test_recordatorios.cpp.o	6a52578da1484736
 1	11549	1648997667515237822	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	30f8fedc5bf7589f
 1	1975	1649002364039552245	CMakeFiles/ej4.dir/tests/test_geometria.cpp.o	b8af6ff04633b5de
+2	4946	1650146426891239944	CMakeFiles/gtest_main.dir/tests/gtest-1.8.1/gtest_main.cc.o	f1aeb873cbb7bc9b
+4947	5220	1650146427159235858	libgtest_main.a	5e3e3680ee34bd10
+1	5952	1650146427891224705	CMakeFiles/ej14.dir/tests/test_recordatorios.cpp.o	76e22a01795b48cf
+3	10545	1650146432479155185	CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.o	80eb5727acddd0b1
+10545	10682	1650146432627152953	libgtest.a	82173a457462bf3e
+10683	11566	1650146433507139696	ej14	3e9a640d932a478d
+1	1872	1650146448922911211	CMakeFiles/ej1.dir/tests/test_geometria.cpp.o	d69bcec53e05b329
+1872	2344	1650146449390904388	ej1	a4a4b61a117c3266
