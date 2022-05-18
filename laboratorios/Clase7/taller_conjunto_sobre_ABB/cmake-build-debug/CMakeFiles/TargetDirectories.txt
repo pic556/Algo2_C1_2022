@@ -1,0 +1,6 @@
+/home/pic/Documentos/algo2/laboratorios/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/gtest.dir
+/home/pic/Documentos/algo2/laboratorios/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/gtest_main.dir
+/home/pic/Documentos/algo2/laboratorios/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/correrTests.dir
+/home/pic/Documentos/algo2/laboratorios/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/correrValgrind.dir
+/home/pic/Documentos/algo2/laboratorios/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pic/Documentos/algo2/laboratorios/Clase7/taller_conjunto_sobre_ABB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
